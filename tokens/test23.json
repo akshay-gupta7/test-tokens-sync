@@ -1,0 +1,7 @@
+{
+  "red": {
+    "$name": "red",
+    "$type": "color",
+    "$value": "#db2b2b"
+  }
+}
