@@ -1,10 +1,6 @@
 {
   "colors": {
     "red": {
-      "600": {
-        "$type": "color",
-        "$value": "#e53e3e"
-      },
       "700": {
         "$type": "color",
         "$value": "#c53030"
@@ -24,6 +20,10 @@
       "4001": {
         "$type": "color",
         "$value": "#112084"
+      },
+      "6009": {
+        "$type": "color",
+        "$value": "#e53e3e"
       },
       "9999": {
         "$type": "color",
