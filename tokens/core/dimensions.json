@@ -2,228 +2,228 @@
   "opacity": {
     "md": {
       "$name": "opacity.md",
-      "$type": "opacity",
-      "$value": "50%"
+      "value": "50%",
+      "type": "opacity"
     },
     "low": {
       "$name": "opacity.low",
-      "$type": "opacity",
-      "$value": "10%"
+      "value": "10%",
+      "type": "opacity"
     },
     "high": {
       "$name": "opacity.high",
-      "$type": "opacity",
-      "$value": "90%"
+      "value": "90%",
+      "type": "opacity"
     }
   },
   "spacing": {
     "lg": {
       "$name": "spacing.lg",
-      "$type": "spacing",
-      "$value": "{dimension.lg}"
+      "value": "{dimension.lg}",
+      "type": "spacing"
     },
     "md": {
       "$name": "spacing.md",
-      "$type": "spacing",
-      "$value": "{dimension.md}"
+      "value": "{dimension.md}",
+      "type": "spacing"
     },
     "sm": {
       "$name": "spacing.sm",
-      "$type": "spacing",
-      "$value": "{dimension.sdcdsdf}"
+      "value": "{dimension.sdcdsdf}",
+      "type": "spacing"
     },
     "xl": {
       "$name": "spacing.xl",
-      "$type": "spacing",
-      "$value": "{dimension.xl}"
+      "value": "{dimension.xl}",
+      "type": "spacing"
     },
     "xs": {
       "$name": "spacing.xs",
-      "$type": "spacing",
-      "$value": "{dimension.xs}"
+      "value": "{dimension.xs}",
+      "type": "spacing"
     },
     "multi-value": {
       "$name": "spacing.multi-value",
-      "$type": "spacing",
-      "$value": "{dimension.sm} {dimension.xl}",
-      "$description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
+      "value": "{dimension.sm} {dimension.xl}",
+      "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens",
+      "type": "spacing"
     }
   },
   "dimension": {
     "lg": {
       "$name": "dimension.lg",
-      "$type": "dimension",
-      "$value": "{dimension.md} * {dimension.scale}"
+      "value": "{dimension.md} * {dimension.scale}",
+      "type": "dimension"
     },
     "md": {
       "$name": "dimension.md",
-      "$type": "dimension",
-      "$value": "{dimension.sm} * {dimension.scale}"
+      "value": "{dimension.sm} * {dimension.scale}",
+      "type": "dimension"
     },
     "sm": {
       "$name": "dimension.sm",
-      "$type": "dimension",
-      "$value": "{dimension.xs} * {dimension.scale}"
+      "value": "{dimension.xs} * {dimension.scale}",
+      "type": "dimension"
     },
     "xl": {
       "$name": "dimension.xl",
-      "$type": "dimension",
-      "$value": "{dimension.lg} * {dimension.scale}"
+      "value": "{dimension.lg} * {dimension.scale}",
+      "type": "dimension"
     },
     "xs": {
       "$name": "dimension.xs",
-      "$type": "dimension",
-      "$value": "4"
+      "value": "4",
+      "type": "dimension"
     },
     "scale": {
       "$name": "dimension.scale",
-      "$type": "dimension",
-      "$value": "2"
+      "value": "2",
+      "type": "dimension"
     }
   },
   "fontSizes": {
     "h1": {
       "$name": "fontSizes.h1",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.h2} * 1.25"
+      "value": "{fontSizes.h2} * 1.25",
+      "type": "fontSizes"
     },
     "h2": {
       "$name": "fontSizes.h2",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.h3} * 1.25"
+      "value": "{fontSizes.h3} * 1.25",
+      "type": "fontSizes"
     },
     "h3": {
       "$name": "fontSizes.h3",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.h4} * 1.25"
+      "value": "{fontSizes.h4} * 1.25",
+      "type": "fontSizes"
     },
     "h4": {
       "$name": "fontSizes.h4",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.h5} * 1.25"
+      "value": "{fontSizes.h5} * 1.25",
+      "type": "fontSizes"
     },
     "h5": {
       "$name": "fontSizes.h5",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.h6} * 1.25"
+      "value": "{fontSizes.h6} * 1.25",
+      "type": "fontSizes"
     },
     "h6": {
       "$name": "fontSizes.h6",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.body} * 1"
+      "value": "{fontSizes.body} * 1",
+      "type": "fontSizes"
     },
     "sm": {
       "$name": "fontSizes.sm",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.body} * 0.85"
+      "value": "{fontSizes.body} * 0.85",
+      "type": "fontSizes"
     },
     "xs": {
       "$name": "fontSizes.xs",
-      "$type": "fontSizes",
-      "$value": "{fontSizes.body} * 0.65"
+      "value": "{fontSizes.body} * 0.65",
+      "type": "fontSizes"
     },
     "body": {
       "$name": "fontSizes.body",
-      "$type": "fontSizes",
-      "$value": "16"
+      "value": "16",
+      "type": "fontSizes"
     }
   },
   "fontWeights": {
     "bodyBold": {
       "$name": "fontWeights.bodyBold",
-      "$type": "fontWeights",
-      "$value": "Bold"
+      "value": "Bold",
+      "type": "fontWeights"
     },
     "bodyRegular": {
       "$name": "fontWeights.bodyRegular",
-      "$type": "fontWeights",
-      "$value": "Regular"
+      "value": "Regular",
+      "type": "fontWeights"
     },
     "headingBold": {
       "$name": "fontWeights.headingBold",
-      "$type": "fontWeights",
-      "$value": "Bold"
+      "value": "Bold",
+      "type": "fontWeights"
     },
     "headingRegular": {
       "$name": "fontWeights.headingRegular",
-      "$type": "fontWeights",
-      "$value": "Regular"
+      "value": "Regular",
+      "type": "fontWeights"
     }
   },
   "lineHeights": {
     "body": {
       "$name": "lineHeights.body",
-      "$type": "lineHeights",
-      "$value": "140%"
+      "value": "140%",
+      "type": "lineHeights"
     },
     "heading": {
       "$name": "lineHeights.heading",
-      "$type": "lineHeights",
-      "$value": "110%"
+      "value": "110%",
+      "type": "lineHeights"
     }
   },
   "borderRadius": {
     "lg": {
       "$name": "borderRadius.lg",
-      "$type": "borderRadius",
-      "$value": "8"
+      "value": "8",
+      "type": "borderRadius"
     },
     "sm": {
       "$name": "borderRadius.sm",
-      "$type": "borderRadius",
-      "$value": "4"
+      "value": "4",
+      "type": "borderRadius"
     },
     "xl": {
       "$name": "borderRadius.xl",
-      "$type": "borderRadius",
-      "$value": "16"
+      "value": "16",
+      "type": "borderRadius"
     },
     "multi-value": {
       "$name": "borderRadius.multi-value",
-      "$type": "borderRadius",
-      "$value": "{borderRadius.sm} {borderRadius.lg}",
-      "$description": "You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values"
+      "value": "{borderRadius.sm} {borderRadius.lg}",
+      "description": "You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values",
+      "type": "borderRadius"
     }
   },
   "fontFamilies": {
     "body": {
       "$name": "fontFamilies.body",
-      "$type": "fontFamilies",
-      "$value": "Roboto"
+      "value": "Roboto",
+      "type": "fontFamilies"
     },
     "heading": {
       "$name": "fontFamilies.heading",
-      "$type": "fontFamilies",
-      "$value": "Inter"
+      "value": "Inter",
+      "type": "fontFamilies"
     }
   },
   "letterSpacing": {
     "default": {
       "$name": "letterSpacing.default",
-      "$type": "letterSpacing",
-      "$value": "0"
+      "value": "0",
+      "type": "letterSpacing"
     },
     "decreased": {
       "$name": "letterSpacing.decreased",
-      "$type": "letterSpacing",
-      "$value": "-5%"
+      "value": "-5%",
+      "type": "letterSpacing"
     },
     "increased": {
       "$name": "letterSpacing.increased",
-      "$type": "letterSpacing",
-      "$value": "150%"
+      "value": "150%",
+      "type": "letterSpacing"
     }
   },
   "paragraphSpacing": {
     "h1": {
       "$name": "paragraphSpacing.h1",
-      "$type": "paragraphSpacing",
-      "$value": "32"
+      "value": "32",
+      "type": "paragraphSpacing"
     },
     "h2": {
       "$name": "paragraphSpacing.h2",
-      "$type": "paragraphSpacing",
-      "$value": "26"
+      "value": "26",
+      "type": "paragraphSpacing"
     }
   }
 }
