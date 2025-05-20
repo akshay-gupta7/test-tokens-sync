@@ -74,6 +74,10 @@
       "900": {
         "$type": "color",
         "$value": "#2a4365"
+      },
+      "600-copy": {
+        "$type": "color",
+        "$value": "#3182ce"
       }
     },
     "gray": {
