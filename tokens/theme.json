@@ -1,42 +1,41 @@
 {
   "card": {
     "padding": {
-      "$type": "dimension",
-      "$value": "{dimension.md}"
+      "value": "{dimension.md}",
+      "type": "dimension"
     },
     "background": {
-      "$type": "color",
-      "$value": "{bg.default}"
+      "value": "{bg.default}",
+      "type": "color"
     },
     "borderRadius": {
-      "$type": "borderRadius",
-      "$value": "{borderRadius.lg}"
+      "value": "{borderRadius.lg}",
+      "type": "borderRadius"
     }
   },
   "button": {
     "primary": {
       "text": {
-        "$type": "color",
-        "$value": "{accent.onAccent}"
+        "value": "{accent.onAccent}",
+        "type": "color"
       },
       "background": {
-        "$type": "color",
-        "$value": "{accent.default}"
+        "value": "{accent.default}",
+        "type": "color"
       }
     },
     "borderWidth": {
-      "$type": "borderWidth",
-      "$value": "{dimension.sm}"
+      "value": "{dimension.sm}",
+      "type": "borderWidth"
     },
     "borderRadius": {
-      "$type": "borderRadius",
-      "$value": "{borderRadius.lg}"
+      "value": "{borderRadius.lg}",
+      "type": "borderRadius"
     }
   },
   "boxShadow": {
     "default": {
-      "$type": "boxShadow",
-      "$value": [
+      "value": [
         {
           "x": "5",
           "y": "5",
@@ -53,67 +52,68 @@
           "color": "#00000033",
           "spread": "6"
         }
-      ]
+      ],
+      "type": "boxShadow"
     }
   },
   "typography": {
     "H1": {
       "Bold": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontSize": "{fontSizes.h1}",
           "fontFamily": "{fontFamilies.heading}",
           "fontWeight": "{fontWeights.headingBold}",
           "lineHeight": "{lineHeights.heading}",
           "letterSpacing": "{letterSpacing.decreased}",
           "paragraphSpacing": "{paragraphSpacing.h1}"
-        }
+        },
+        "type": "typography"
       },
       "Regular": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontSize": "{fontSizes.h1}",
           "fontFamily": "{fontFamilies.heading}",
           "fontWeight": "{fontWeights.headingRegular}",
           "lineHeight": "{lineHeights.heading}",
           "letterSpacing": "{letterSpacing.decreased}",
           "paragraphSpacing": "{paragraphSpacing.h1}"
-        }
+        },
+        "type": "typography"
       }
     },
     "H2": {
       "Bold": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontSize": "{fontSizes.h2}",
           "fontFamily": "{fontFamilies.heading}",
           "fontWeight": "{fontWeights.headingBold}",
           "lineHeight": "{lineHeights.heading}",
           "letterSpacing": "{letterSpacing.decreased}",
           "paragraphSpacing": "{paragraphSpacing.h2}"
-        }
+        },
+        "type": "typography"
       },
       "Regular": {
-        "$type": "typography",
-        "$value": {
+        "value": {
           "fontSize": "{fontSizes.h2}",
           "fontFamily": "{fontFamilies.heading}",
           "fontWeight": "{fontWeights.headingRegular}",
           "lineHeight": "{lineHeights.heading}",
           "letterSpacing": "{letterSpacing.decreased}",
           "paragraphSpacing": "{paragraphSpacing.h2}"
-        }
+        },
+        "type": "typography"
       }
     },
     "Body": {
-      "$type": "typography",
-      "$value": {
+      "value": {
         "fontSize": "{fontSizes.body}",
         "fontFamily": "{fontFamilies.body}",
         "fontWeight": "{fontWeights.bodyRegular}",
         "lineHeight": "{lineHeights.heading}",
         "paragraphSpacing": "{paragraphSpacing.h2}"
-      }
+      },
+      "type": "typography"
     }
   }
 }
