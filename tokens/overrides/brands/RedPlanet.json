@@ -55,7 +55,7 @@
       "700": {
         "$name": "colors.accent.700",
         "$type": "color",
-        "$value": "{colors.red.700}"
+        "$value": "{colors.red.7009}"
       },
       "800": {
         "$name": "colors.accent.800",
