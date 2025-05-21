@@ -1,22 +1,22 @@
 {
   "bg": {
     "subtle": {
-      "value": "{contrast.bg.subtle}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{contrast.bg.subtle}"
     },
     "default": {
-      "value": "{contrast.bg.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{contrast.bg.default}"
     }
   },
   "border": {
     "muted": {
-      "value": "{contrast.border.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{contrast.border.default}"
     },
     "default": {
-      "value": "{contrast.border.default}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{contrast.border.default}"
     }
   }
 }
