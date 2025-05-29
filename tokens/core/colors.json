@@ -1,10 +1,6 @@
 {
   "colors": {
     "red": {
-      "800": {
-        "$type": "color",
-        "$value": "#9b2c2c"
-      },
       "900": {
         "$type": "color",
         "$value": "#742a2a"
@@ -36,6 +32,10 @@
       "88990": {
         "$type": "color",
         "$value": "#259649"
+      },
+      "800ddd": {
+        "$type": "color",
+        "$value": "#9b2c2c"
       }
     },
     "blue": {
