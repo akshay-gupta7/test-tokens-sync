@@ -65,7 +65,7 @@
       "900": {
         "$name": "colors.accent.900",
         "$type": "color",
-        "$value": "{colors.red.900}"
+        "$value": "{colors.red.900test}"
       }
     },
     "onAccent": {
