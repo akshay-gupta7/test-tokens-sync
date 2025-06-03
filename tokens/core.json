@@ -42,7 +42,7 @@
       "$type": "spacing",
       "$value": "{dimension.lg}"
     },
-    "xl": {
+    "xlss": {
       "$type": "spacing",
       "$value": "{dimension.xl}"
     },
