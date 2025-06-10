@@ -34,7 +34,7 @@
       "$type": "spacing",
       "$value": "{dimension.sm}"
     },
-    "sm3": {
+    "sm3333": {
       "$type": "spacing",
       "$value": "{dimension.md}"
     },
