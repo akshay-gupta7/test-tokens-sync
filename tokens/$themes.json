@@ -6,8 +6,19 @@
     "selectedTokenSets": {
       "core": "source",
       "light": "enabled",
-      "theme": "enabled"
+      "theme": "enabled",
+      "dark": "enabled"
     },
     "group": "aaa"
+  },
+  {
+    "id": "7d118a89ef29fb2dde3394a6d2d52c0e40ba56da",
+    "name": "ee",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "light": "enabled"
+    },
+    "group": "ccc"
   }
 ]

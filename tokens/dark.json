@@ -10,7 +10,7 @@
     },
     "subtle": {
       "$type": "color",
-      "$value": "{colors.gray.500}"
+      "$value": "#303030"
     }
   },
   "bg": {
