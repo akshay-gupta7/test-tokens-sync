@@ -6,8 +6,7 @@
     "selectedTokenSets": {
       "core": "source",
       "light": "enabled",
-      "theme": "enabled",
-      "dark": "enabled"
+      "theme": "enabled"
     },
     "group": "aaa"
   },
