@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "theme": "enabled"
+      "theme": "enabled",
+      "darks": "disabled"
     },
     "group": "a"
   }
