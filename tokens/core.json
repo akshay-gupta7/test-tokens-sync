@@ -30,15 +30,15 @@
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
-    "aaabbss": {
+    "a": {
       "$type": "spacing",
       "$value": "{dimension.sm}"
     },
-    "sm3333": {
+    "sm3": {
       "$type": "spacing",
       "$value": "{dimension.md}"
     },
-    "lgnnn": {
+    "lg": {
       "$type": "spacing",
       "$value": "{dimension.lg}"
     },
