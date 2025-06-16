@@ -30,7 +30,7 @@
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
-    "aaabb": {
+    "aaabbss": {
       "$type": "spacing",
       "$value": "{dimension.sm}"
     },
