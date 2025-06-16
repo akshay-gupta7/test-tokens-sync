@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "b6fed89afffea734d76588e5ce9b37bcb14c970c",
+    "name": "b",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "light": "enabled",
+      "theme": "enabled"
+    },
+    "group": "a"
+  }
+]
