@@ -30,7 +30,7 @@
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
-    "smm": {
+    "sm": {
       "$type": "spacing",
       "$value": "{dimension.sm}"
     },
