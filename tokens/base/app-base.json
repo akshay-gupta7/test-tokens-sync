@@ -2977,7 +2977,7 @@
   },
   "size": {
     "asset": {
-      "indicator": {
+      "indicatorssss": {
         "$type": "sizing",
         "$value": "{size.base.4}"
       },
