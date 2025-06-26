@@ -574,5 +574,9 @@
       "$type": "fontSizes",
       "$value": "{fontSizes.body} * 0.65"
     }
+  },
+  "widh-10": {
+    "$type": "borderWidth",
+    "$value": "10"
   }
 }
