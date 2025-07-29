@@ -2,8 +2,7 @@
   "dimension": {
     "scale": {
       "$type": "dimension",
-      "$value": "2"
-    },
+      
     "xs": {
       "$type": "dimension",
       "$value": "4"
