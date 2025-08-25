@@ -4,7 +4,8 @@
     "name": "bbb",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled"
+      "light": "enabled",
+      "dark": "enabled"
     },
     "group": "aaa"
   }
