@@ -76,10 +76,6 @@
       "$type": "color",
       "$value": "#000000"
     },
-    "white": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
     "gray": {
       "100": {
         "$type": "color",
