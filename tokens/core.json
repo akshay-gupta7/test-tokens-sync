@@ -26,7 +26,7 @@
     }
   },
   "spacing": {
-    "xsg": {
+    "xs": {
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
