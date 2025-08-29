@@ -56,8 +56,7 @@
     "group": "Colors",
     "selectedTokenSets": {
       "light/primitives": "enabled",
-      "theme": "enabled",
-      "core/defaultsNN": "disabled"
+      "theme": "enabled"
     },
     "$figmaStyleReferences": {
       "fg.muted": "S:0cbc10f119eb92a09f019eeae27b93b76bf34cc6,",
@@ -87,8 +86,7 @@
     "group": "Colors",
     "selectedTokenSets": {
       "dark/primitives": "enabled",
-      "theme": "enabled",
-      "core/defaultsNN": "disabled"
+      "theme": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": null
@@ -98,8 +96,7 @@
     "name": "RedPlanet",
     "group": "Brand",
     "selectedTokenSets": {
-      "overrides/brands/RedPlanet": "enabled",
-      "core/defaultsNN": "disabled"
+      "overrides/brands/RedPlanet": "enabled"
     },
     "$figmaStyleReferences": {
       "colors.accent.100": "S:cdc07660eae99b9aa032e703560159a23328d7c1,",
@@ -120,8 +117,7 @@
     "name": "YellowCab",
     "group": "Brand",
     "selectedTokenSets": {
-      "overrides/brands/YellowCab": "enabled",
-      "core/defaultsNN": "disabled"
+      "overrides/brands/YellowCab": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": null
