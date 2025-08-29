@@ -25,7 +25,7 @@
       "$value": "{dimension.lg} * {dimension.scale}"
     }
   },
-  "spacing": {
+  "ssspacings": {
     "xsghjkk": {
       "$type": "spacing",
       "$value": "{dimension.xs}"
