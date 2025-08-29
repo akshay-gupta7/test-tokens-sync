@@ -27,12 +27,12 @@
     "default": {
       "$name": "accent.default",
       "$type": "color",
-      "$value": "{colors.accent.500}"
+      "$value": "{colorso.accent.500}"
     },
     "onAccent": {
       "$name": "accent.onAccent",
       "$type": "color",
-      "$value": "{colors.onAccent.default}"
+      "$value": "{colorso.onAccent.default}"
     }
   },
   "border": {
@@ -83,7 +83,7 @@
   "anbgjhjehdcudeh": {
     "$name": "anbgjhjehdcudeh",
     "$type": "color",
-    "$value": "{colors.accent.400}"
+    "$value": "{colorso.accent.400}"
   },
   "contrast-subtle": {
     "$name": "contrast-subtle",

@@ -26,15 +26,15 @@
   "accent": {
     "bg": {
       "$type": "color",
-      "$value": "{colors.accent.800}"
+      "$value": "{colorso.accent.800}"
     },
     "default": {
       "$type": "color",
-      "$value": "{colors.accent.600}"
+      "$value": "{colorso.accent.600}"
     },
     "onAccent": {
       "$type": "color",
-      "$value": "{colors.onAccent.default}"
+      "$value": "{colorso.onAccent.default}"
     }
   },
   "border": {

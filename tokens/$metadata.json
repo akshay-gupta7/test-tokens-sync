@@ -4,7 +4,7 @@
     "core/dimensions",
     "core/high-contrastssn",
     "dark/primitives",
-    "light/primitives",
+    "lighto/primitives",
     "overrides/brands/RedPlanet",
     "overrides/brands/YellowCab",
     "overrides/high-contrast",
