@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "core/colors",
-    "core/defaults",
+    "core/defaultsNN",
     "core/dimensions",
     "core/high-contrastssn",
     "light/primitives",
@@ -11,13 +11,6 @@
     "overrides/high-contrast",
     "theme",
     "test",
-    "test2",
-    "test3",
-    "test4",
-    "test5",
-    "test7",
-    "test8",
-    "test9",
     "test23"
   ]
 }

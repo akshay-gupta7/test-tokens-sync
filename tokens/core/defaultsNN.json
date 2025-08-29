@@ -1,14 +1,6 @@
 {
-  "colors": {
+  "colorso": {
     "accent": {
-      "100": {
-        "value": "{colors.blue.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{colors.blue.200}",
-        "type": "color"
-      },
       "300": {
         "value": "{colors.blue.300}",
         "type": "color"
@@ -35,6 +27,14 @@
       },
       "900": {
         "value": "{colors.blue.900}",
+        "type": "color"
+      },
+      "1008": {
+        "value": "{colors.blue.100}",
+        "type": "color"
+      },
+      "200j": {
+        "value": "{colors.blue.200}",
         "type": "color"
       }
     },
