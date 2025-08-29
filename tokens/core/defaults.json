@@ -1,10 +1,6 @@
 {
   "colors": {
     "accent": {
-      "100": {
-        "$type": "color",
-        "$value": "{colors.blue.100}"
-      },
       "200": {
         "$type": "color",
         "$value": "{colors.blue.200}"
@@ -36,6 +32,10 @@
       "900": {
         "$type": "color",
         "$value": "{colors.blue.900}"
+      },
+      "1008": {
+        "$type": "color",
+        "$value": "{colors.blue.100}"
       }
     },
     "onAccent": {
