@@ -1,5 +1,5 @@
 {
-  "fg": {
+  "fgj": {
     "default": {
       "$type": "color",
       "$value": "{colors.black}"
