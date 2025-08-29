@@ -59,7 +59,7 @@
       },
       "800": {
         "$name": "colors.accent.800",
-        "value": "{colors.red.800}",
+        "value": "{colors.red.800n}",
         "type": "color"
       },
       "900": {
