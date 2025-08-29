@@ -26,7 +26,7 @@
     }
   },
   "spacing": {
-    "xsgh": {
+    "xsghjkk": {
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
