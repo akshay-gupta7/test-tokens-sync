@@ -25,12 +25,12 @@
       "$value": "{dimension.lg} * {dimension.scale}"
     }
   },
-  "ssspacingsii": {
+  "ssspacingsiipp": {
     "xsghjkkii": {
       "$type": "spacing",
       "$value": "{dimension.xs}"
     },
-    "sm99kk": {
+    "sm99kkii": {
       "$type": "spacing",
       "$value": "{dimension.sm}"
     },
@@ -42,7 +42,7 @@
       "$type": "spacing",
       "$value": "{dimension.lg}"
     },
-    "xl": {
+    "xljkj": {
       "$type": "spacing",
       "$value": "{dimension.xl}"
     },
