@@ -1,5 +1,5 @@
 {
-  "core": {
+  "coreDD": {
     "dimension": {
       "scale": {
         "$type": "dimension",
@@ -677,7 +677,7 @@
       }
     }
   },
-  "theme": {
+  "themeSS": {
     "button": {
       "primary": {
         "background": {
@@ -796,13 +796,36 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "cd8a894713e62dbe327f0e9d7bc6859735eca014",
+      "name": "bb",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "light": "enabled",
+        "themeSS": "disabled",
+        "coreDD": "enabled"
+      },
+      "group": "aa"
+    },
+    {
+      "id": "f116a73a04e672d656575efec411384e7ee0a3ed",
+      "name": "cc",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "dark": "enabled",
+        "themeSS": "enabled",
+        "coreDD": "disabled"
+      },
+      "group": "aa"
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
-      "core",
+      "coreDD",
       "light",
       "dark",
-      "theme"
+      "themeSS"
     ]
   }
 }
