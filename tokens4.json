@@ -1,5 +1,5 @@
 {
-  "coreDD": {
+  "core": {
     "dimension": {
       "scale": {
         "$type": "dimension",
@@ -577,7 +577,7 @@
       }
     }
   },
-  "light": {
+  "lightddd": {
     "fg": {
       "default": {
         "$type": "color",
@@ -677,7 +677,7 @@
       }
     }
   },
-  "themeSS": {
+  "theme": {
     "button": {
       "primary": {
         "background": {
@@ -798,34 +798,35 @@
   },
   "$themes": [
     {
-      "id": "cd8a894713e62dbe327f0e9d7bc6859735eca014",
-      "name": "bb",
+      "id": "2363cae4dc2edfb8e15bc2685275c35160918e06",
+      "name": "dew",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "light": "enabled",
-        "themeSS": "disabled",
-        "coreDD": "enabled"
+        "core": "enabled",
+        "theme": "enabled",
+        "lightddd": "enabled"
       },
-      "group": "aa"
+      "group": "wdfwf"
     },
     {
-      "id": "f116a73a04e672d656575efec411384e7ee0a3ed",
-      "name": "cc",
+      "id": "f5db57916f42508f4888c54b42128796b1adac74",
+      "name": "ff",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
+        "core": "source",
         "dark": "enabled",
-        "themeSS": "enabled",
-        "coreDD": "disabled"
+        "theme": "enabled",
+        "lightddd": "disabled"
       },
-      "group": "aa"
+      "group": "wdfwf"
     }
   ],
   "$metadata": {
     "tokenSetOrder": [
-      "coreDD",
-      "light",
+      "core",
+      "lightddd",
       "dark",
-      "themeSS"
+      "theme"
     ]
   }
 }
