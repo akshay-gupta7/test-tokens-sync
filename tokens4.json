@@ -577,7 +577,7 @@
       }
     }
   },
-  "lightddd": {
+  "lightdddsssss": {
     "fg": {
       "default": {
         "$type": "color",
@@ -804,7 +804,7 @@
       "selectedTokenSets": {
         "core": "enabled",
         "theme": "enabled",
-        "lightddd": "enabled"
+        "lightdddsssss": "enabled"
       },
       "group": "wdfwf"
     },
@@ -816,7 +816,7 @@
         "core": "source",
         "dark": "enabled",
         "theme": "enabled",
-        "lightddd": "disabled"
+        "lightdddsssss": "disabled"
       },
       "group": "wdfwf"
     }
@@ -824,7 +824,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "core",
-      "lightddd",
+      "lightdddsssss",
       "dark",
       "theme"
     ]
