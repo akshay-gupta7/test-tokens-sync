@@ -1,12 +1,22 @@
 [
   {
-    "id": "765144b97c7b3619dfc2f36c20cab58237853061",
-    "name": "abcx",
+    "id": "e51db58fd880aeaa4c8f8c3da1be06b697182dbc",
+    "name": "vv",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "enabled",
-      "lightSSkkMMmmm": "enabled"
+      "light": "enabled"
     },
-    "group": "gg"
+    "group": "aa"
+  },
+  {
+    "id": "19fbba0c3ee39c74ab24f1ff06eaffc076b1d67b",
+    "name": "gg",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "darkss": "enabled"
+    },
+    "group": "aa"
   }
 ]
