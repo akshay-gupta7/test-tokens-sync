@@ -4,8 +4,7 @@
     "name": "vv",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core": "enabled",
-      "light": "enabled"
+      "core": "enabled"
     },
     "group": "aa"
   },
@@ -15,7 +14,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "darkss": "enabled"
+      "darkssAA": "enabled"
     },
     "group": "aa"
   }
