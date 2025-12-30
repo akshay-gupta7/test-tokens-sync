@@ -28,7 +28,20 @@
   "ssspacingsiippfffffffpp": {
     "xsghjkkii": {
       "value": "{dimension.xs}",
-      "type": "spacing"
+      "type": "spacing",
+      "$extensions": {
+        "com.figma": {
+          "scopes": [
+            "WIDTH_HEIGHT",
+            "GAP"
+          ],
+          "codeSyntax": {
+            "Web": "mm",
+            "Android": "",
+            "iOS": ""
+          }
+        }
+      }
     },
     "sm99kkii": {
       "value": "{dimension.sm}",
