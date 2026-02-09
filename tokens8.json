@@ -1,33 +1,32 @@
 {
-  "themes": [
+  "Global": {
+    "rad123": {
+      "$value": "12",
+      "$type": "borderRadius",
+      "$description": ""
+    }
+  },
+  "testset2": {},
+  "$themes": [
     {
-      "id": "test-theme-1",
-      "name": "Test Theme",
-      "active": true,
-      "activeSets": [
-        "test-set-1"
-      ]
+      "id": "d0d566de-bf76-80b8-8007-8bce8c643af3",
+      "name": "theme1",
+      "group": "",
+      "description": "",
+      "isSource": false,
+      "selectedTokenSets": {}
     }
   ],
-  "sets": [
-    {
-      "id": "test-set-1",
-      "name": "Test Set",
-      "active": true,
-      "tokens": [
-        {
-          "id": "test-token-1",
-          "name": "primary-color",
-          "type": "color",
-          "value": "#FF0000"
-        }
-      ]
-    }
-  ],
-  "metadata": {
-    "themesCount": 1,
-    "setsCount": 1,
-    "totalTokens": 1,
-    "exportedAt": "2026-02-09T14:52:16.129Z"
+  "$metadata": {
+    "tokenSetOrder": [
+      "Global",
+      "testset2"
+    ],
+    "activeThemes": [
+      "d0d566de-bf76-80b8-8007-8bce8c643af3"
+    ],
+    "activeSets": [
+      "Global"
+    ]
   }
 }
