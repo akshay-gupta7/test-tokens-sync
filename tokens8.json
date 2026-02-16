@@ -14,7 +14,9 @@
       "group": "",
       "description": "",
       "isSource": false,
-      "selectedTokenSets": {}
+      "selectedTokenSets": {
+        "Global": "enabled"
+      }
     }
   ],
   "$metadata": {
