@@ -9,7 +9,7 @@
   "testset2": {},
   "$themes": [
     {
-      "id": "d0d566de-bf76-80b8-8007-8bce8c643af3",
+      "id": "8f0fc77e-e2ab-80bd-8007-95301a6a3141",
       "name": "theme1",
       "group": "",
       "description": "",
@@ -23,7 +23,7 @@
       "testset2"
     ],
     "activeThemes": [
-      "d0d566de-bf76-80b8-8007-8bce8c643af3"
+      "8f0fc77e-e2ab-80bd-8007-95301a6a3141"
     ],
     "activeSets": [
       "Global"
