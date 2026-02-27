@@ -1,13 +1,18 @@
 {
   "Global": {
     "rad123": {
-      "$value": "567",
+      "$value": "12",
       "$type": "borderRadius",
       "$description": ""
     },
     "rad456": {
-      "$value": "123",
+      "$value": "56",
       "$type": "borderRadius",
+      "$description": ""
+    },
+    "dimension1": {
+      "$value": "12",
+      "$type": "dimension",
       "$description": ""
     }
   },
@@ -15,12 +20,22 @@
   "$themes": [
     {
       "id": "d0d566de-bf76-80b8-8007-8bce8c643af3",
-      "name": "theme2",
+      "name": "theme1",
       "group": "",
       "description": "",
       "isSource": false,
       "selectedTokenSets": {
         "Global": "enabled"
+      }
+    },
+    {
+      "id": "576254e3-5b01-803a-8007-a2eb8b3deccf",
+      "name": "theme2",
+      "group": "",
+      "description": "",
+      "isSource": false,
+      "selectedTokenSets": {
+        "testset2": "enabled"
       }
     }
   ],
