@@ -16,27 +16,29 @@
       "$description": ""
     }
   },
-  "testset2": {},
+  "testset2": {
+    "rdius89": {
+      "$value": "120",
+      "$type": "borderRadius",
+      "$description": ""
+    }
+  },
   "$themes": [
     {
-      "id": "d0d566de-bf76-80b8-8007-8bce8c643af3",
+      "id": "022e3f07-06fb-80e9-8007-a725ea30bcf3",
       "name": "theme1",
       "group": "",
       "description": "",
       "isSource": false,
-      "selectedTokenSets": {
-        "Global": "enabled"
-      }
+      "selectedTokenSets": {}
     },
     {
-      "id": "576254e3-5b01-803a-8007-a2eb8b3deccf",
+      "id": "022e3f07-06fb-80e9-8007-a725ea31696b",
       "name": "theme2",
       "group": "",
       "description": "",
       "isSource": false,
-      "selectedTokenSets": {
-        "testset2": "enabled"
-      }
+      "selectedTokenSets": {}
     }
   ],
   "$metadata": {
@@ -44,11 +46,7 @@
       "Global",
       "testset2"
     ],
-    "activeThemes": [
-      "d0d566de-bf76-80b8-8007-8bce8c643af3"
-    ],
-    "activeSets": [
-      "Global"
-    ]
+    "activeThemes": [],
+    "activeSets": []
   }
 }
