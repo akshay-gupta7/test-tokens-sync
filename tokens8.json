@@ -17,7 +17,7 @@
     }
   },
   "testset2": {
-    "rdius89": {
+    "rdius890": {
       "$value": "120",
       "$type": "borderRadius",
       "$description": ""
