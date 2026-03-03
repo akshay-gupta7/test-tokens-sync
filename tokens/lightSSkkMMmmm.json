@@ -19,7 +19,7 @@
       "type": "color"
     },
     "muted": {
-      "value": "{colors.gray.100}",
+      "value": "{colors.gray.100s}",
       "type": "color"
     },
     "subtle": {
