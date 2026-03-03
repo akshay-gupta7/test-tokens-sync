@@ -25,7 +25,6 @@
       "borderRadius.lg": "9c1a71ae41c6afd0c38197b7408aa34911ff0d99",
       "borderRadius.xl": "e05639c3423bfb66b349395c818d4ccd7a298e3b",
       "colors.black": "73b0af94b65edec929af73bdf98716c8eaa9d853",
-      "colors.gray.100": "1480f4a8b8d52318f50dbf135fc9e82d92d74b96",
       "colors.gray.200": "8e27ea735a9cfb70eb433335fd618e3a2dbac8d9",
       "colors.gray.300": "0541ba9cf4ab4a525389060be9f8b91f8193b7fe",
       "colors.gray.400": "8ba5a909b231fa64a88fb556632851bdff3a5f74",
@@ -136,7 +135,8 @@
       "fontSizes.body": "68b3e37f148103c72d51821a852df3fb09189baa",
       "fontSizes.sm": "345744174373220bb13b20ffb8320d1074ebd140",
       "fontSizes.xs": "1c6f3730cf775fe0b6f154e141fc94e0fd473088",
-      "widh-10": "c0b68079b741a0fa6dcb7d83d40d5d90ba5f53cc"
+      "widh-10": "c0b68079b741a0fa6dcb7d83d40d5d90ba5f53cc",
+      "colors.gray.100s": "1480f4a8b8d52318f50dbf135fc9e82d92d74b96"
     }
   },
   {
