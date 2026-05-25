@@ -23,14 +23,14 @@
       "$description": ""
     },
     "radius78": {
-      "$value": "78",
+      "$value": "789",
       "$type": "borderRadius",
       "$description": ""
     }
   },
   "$themes": [
     {
-      "id": "022e3f07-06fb-80e9-8007-a725ea30bcf3",
+      "id": "618b25c8-0548-8065-8008-136f497783a2",
       "name": "theme1",
       "group": "",
       "description": "",
@@ -38,7 +38,7 @@
       "selectedTokenSets": {}
     },
     {
-      "id": "022e3f07-06fb-80e9-8007-a725ea31696b",
+      "id": "618b25c8-0548-8065-8008-136f4978113a",
       "name": "theme2",
       "group": "",
       "description": "",
