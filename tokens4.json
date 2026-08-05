@@ -796,6 +796,7 @@
       }
     }
   },
+  "test-new": {},
   "$themes": [
     {
       "id": "2363cae4dc2edfb8e15bc2685275c35160918e06",
@@ -815,8 +816,7 @@
       "selectedTokenSets": {
         "core": "source",
         "dark": "enabled",
-        "theme": "enabled",
-        "lightdddsssss": "disabled"
+        "theme": "enabled"
       },
       "group": "wdfwf"
     }
@@ -826,7 +826,8 @@
       "core",
       "lightdddsssss",
       "dark",
-      "theme"
+      "theme",
+      "test-new"
     ]
   }
 }
