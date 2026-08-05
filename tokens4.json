@@ -797,6 +797,12 @@
     }
   },
   "test-new": {},
+  "newset2": {
+    "spacing1": {
+      "$type": "spacing",
+      "$value": "16px"
+    }
+  },
   "$themes": [
     {
       "id": "2363cae4dc2edfb8e15bc2685275c35160918e06",
@@ -827,7 +833,8 @@
       "lightdddsssss",
       "dark",
       "theme",
-      "test-new"
+      "test-new",
+      "newset2"
     ]
   }
 }
