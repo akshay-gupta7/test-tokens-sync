@@ -1,8 +1,8 @@
 {
   "sizing": {
     "2": {
-      "value": "12px",
-      "type": "sizing"
+      "$type": "sizing",
+      "$value": "12px"
     }
   }
 }
