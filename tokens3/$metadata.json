@@ -9,7 +9,6 @@
     "qvc/alias/shadow",
     "qvc/alias/sizing",
     "qvc/alias/typography",
-    "qvc/mapped",
-    "qvc/streaming"
+    "qvc/mapped"
   ]
 }
