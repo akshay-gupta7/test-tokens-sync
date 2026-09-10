@@ -1,0 +1,255 @@
+{
+  "color": {
+    "primary": {
+      "100": {
+        "value": "{color.midnight-pearl.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{color.midnight-pearl.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{color.midnight-pearl.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{color.midnight-pearl.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.midnight-pearl.500}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.midnight-pearl.800}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "100": {
+        "value": "{color.sunrise-compliant.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{color.sunrise-compliant.200}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{color.sunrise-compliant.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.sunrise-compliant.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{color.sunrise-compliant.600}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "100": {
+        "value": "{color.red.100}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.red.500}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.red.800}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "100": {
+        "value": "{color.green.100}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.green.500}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.green.700}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "100": {
+        "value": "{color.yellow.100}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.yellow.500}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.yellow.800}",
+        "type": "color"
+      }
+    },
+    "sale": {
+      "500": {
+        "value": "{color.tsv.500}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "100": {
+        "value": "{color.blue-crush.100}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.blue-crush.600}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.blue-crush.800}",
+        "type": "color"
+      }
+    },
+    "todays-special": {
+      "500": {
+        "value": "{color.tsv.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{color.tsv.600}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "0": {
+        "value": "{color.white}",
+        "type": "color",
+        "description": "Absolute White"
+      },
+      "100": {
+        "value": "{color.grayskull.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{color.grayskull.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{color.grayskull.300}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{color.grayskull.600}",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "200": {
+        "value": "{color.blue-crush.200}",
+        "type": "color",
+        "description": "Next Gen Coupon"
+      },
+      "400": {
+        "value": "{color.blue-crush.400}",
+        "type": "color",
+        "description": "Next Gen Coupon"
+      },
+      "500": {
+        "value": "{color.blue-crush.500}",
+        "type": "color",
+        "description": "Next Gen Coupon"
+      },
+      "700": {
+        "value": "{color.blue-crush.700}",
+        "type": "color",
+        "description": "Next Gen Coupon"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{color.primary.500}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{color.neutral.0}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color.secondary.500}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.primary.200}",
+        "type": "color"
+      },
+      "sale": {
+        "value": "{color.sale.500}",
+        "type": "color"
+      },
+      "easyPay": {
+        "value": "{color.blue-crush.500}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "{color.neutral.0}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{color.primary.500}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{color.neutral.300}",
+        "type": "color"
+      },
+      "skeleton": {
+        "value": "{color.gradient.primary}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "primary": {
+        "value": "{color.neutral.0}",
+        "type": "color"
+      }
+    },
+    "divider": {
+      "sm": {
+        "value": "{color.neutral.600}",
+        "type": "color",
+        "description": "1px Divider Color"
+      },
+      "md": {
+        "value": "{color.neutral.200}",
+        "type": "color",
+        "description": "4px divider color"
+      }
+    },
+    "border": {
+      "focus": {
+        "value": "{color.primary.800}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{color.primary.100}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.primary.500}",
+        "type": "color",
+        "$extensions": {
+          "com.figma.scopes": [
+            "STROKE_COLOR"
+          ],
+          "com.figma.hiddenFromPublishing": false
+        }
+      },
+      "inverse": {
+        "value": "{color.neutral.0}",
+        "type": "color"
+      }
+    }
+  }
+}

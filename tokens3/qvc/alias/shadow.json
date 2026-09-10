@@ -1,0 +1,15 @@
+{
+  "box-shadow": {
+    "sm": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0",
+        "color": "{color.gray.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}

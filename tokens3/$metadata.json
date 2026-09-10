@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "live/primitive/source",
+    "live/primitive/breakpoints",
+    "qvc/primitive",
+    "qvc/alias/border",
+    "qvc/alias/color",
+    "qvc/alias/dimension",
+    "qvc/alias/shadow",
+    "qvc/alias/sizing",
+    "qvc/alias/typography",
+    "qvc/mapped",
+    "qvc/streaming"
+  ]
+}

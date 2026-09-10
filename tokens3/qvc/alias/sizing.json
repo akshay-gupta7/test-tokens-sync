@@ -1,0 +1,38 @@
+{
+  "size": {
+    "icon": {
+      "xxxs": {
+        "value": "{sizing.12}",
+        "type": "dimension"
+      },
+      "xxs": {
+        "value": "{sizing.16}",
+        "type": "dimension"
+      },
+      "xs": {
+        "value": "{sizing.20}",
+        "type": "dimension"
+      },
+      "sm": {
+        "value": "{sizing.24}",
+        "type": "dimension"
+      },
+      "md": {
+        "value": "{sizing.28}",
+        "type": "dimension"
+      },
+      "lg": {
+        "value": "{sizing.32}",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "{sizing.40}",
+        "type": "dimension"
+      },
+      "2x": {
+        "value": "{sizing.48}",
+        "type": "dimension"
+      }
+    }
+  }
+}
