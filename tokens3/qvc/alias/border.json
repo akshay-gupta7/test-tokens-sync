@@ -1,80 +1,80 @@
 {
   "border-width": {
     "0": {
-      "value": "0",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "0"
     },
     "1": {
-      "value": "0.0625rem",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "0.0625rem"
     },
     "2": {
-      "value": "0.125rem",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "0.125rem"
     },
     "4": {
-      "value": "0.25rem",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "0.25rem"
     },
     "8": {
-      "value": "0.5rem",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "0.5rem"
     }
   },
   "border-radius": {
     "0": {
-      "value": "0",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "0"
     },
     "xs": {
-      "value": "{sizing.4}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{sizing.4}"
     },
     "sm": {
-      "value": "{sizing.8}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{sizing.8}"
     },
     "md": {
-      "value": "{sizing.12}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{sizing.12}"
     },
     "lg": {
-      "value": "{sizing.16}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{sizing.16}"
     },
     "xl": {
-      "value": "{sizing.20}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{sizing.20}"
     },
     "round": {
-      "value": "999.9rem",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "999.9rem"
     }
   },
   "focus": {
-    "value": {
+    "$type": "border",
+    "$value": {
       "color": "{color.border.focus}",
       "width": "{border-width.2}",
       "style": "solid"
-    },
-    "type": "border"
+    }
   },
   "divider": {
     "sm": {
-      "value": {
+      "$type": "border",
+      "$value": {
         "color": "{color.divider.sm}",
         "width": "{border-width.1}",
         "style": "solid"
-      },
-      "type": "border"
+      }
     },
     "md": {
-      "value": {
+      "$type": "border",
+      "$value": {
         "color": "{color.divider.md}",
         "width": "{border-width.4}",
         "style": "solid"
-      },
-      "type": "border"
+      }
     }
   }
 }
