@@ -4,146 +4,146 @@
       "on": {
         "action": {
           "primary": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "secondary": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "ghost": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "danger": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         },
         "field": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "placeholder": {
-            "value": "{color.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.400}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         },
         "control": {
           "primary": {
-            "value": "{color.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.text.primary}"
           },
           "selected": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "unselected": {
-            "value": "{color.text.primary}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.text.primary}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         },
         "badge": {
           "tsv": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "live": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "sale": {
-            "value": "{color.sale.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.sale.500}"
           },
           "basic": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           }
         },
         "navigation": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "hover": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           },
           "pressed": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         },
         "notice": {
           "success": {
-            "value": "{color.success.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.success.800}"
           },
           "error": {
-            "value": "{color.error.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.error.800}"
           },
           "warning": {
-            "value": "{color.warning.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.warning.800}"
           },
           "info": {
-            "value": "{color.info.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.info.800}"
           }
         }
       },
       "field": {
         "label": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "helper": {
-            "value": "{color.primary.400}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.400}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         }
       },
       "link": {
         "primary": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "hover": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           },
           "pressed": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           },
           "disabled": {
-            "value": "{color.primary.200}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.200}"
           }
         }
       }
@@ -152,54 +152,52 @@
       "action": {
         "primary": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "hover": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           },
           "pressed": {
-            "value": "{color.primary.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.800}"
           }
         },
         "secondary": {
           "enabled": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "hover": {
-            "value": "{color.primary.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.100}"
           },
           "pressed": {
-            "value": "{color.primary.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.100}"
           }
         },
         "danger": {
           "enabled": {
-            "value": "{color.red.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.500}"
           },
           "hover": {
-            "value": "{color.red.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.800}"
           },
           "pressed": {
-            "value": "{color.red.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.800}"
           }
         },
         "disabled": {
-          "value": "{color.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.100}"
         },
         "ghost": {
           "enabled": {
-            "value": "{color.neutral.0}",
-            "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -208,68 +206,68 @@
                   "space": "srgb"
                 }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "hover": {
-            "value": "{color.primary.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.100}"
           },
           "pressed": {
-            "value": "{color.primary.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.100}"
           }
         }
       },
       "field": {
         "enabled": {
-          "value": "{color.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.0}"
         },
         "hover": {
-          "value": "{color.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.100}"
         },
         "disabled": {
-          "value": "{color.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.100}"
         }
       },
       "control": {
         "primary": {
           "selected": {
             "enabled": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "hover": {
-              "value": "{color.primary.800}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.800}"
             },
             "pressed": {
-              "value": "{color.primary.800}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.800}"
             }
           },
           "unselected": {
             "enabled": {
-              "value": "{color.neutral.0}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.neutral.0}"
             },
             "hover": {
-              "value": "{color.primary.100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.100}"
             },
             "pressed": {
-              "value": "{color.primary.100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.100}"
             }
           }
         },
         "ghost": {
           "selected": {
             "enabled": {
-              "value": "{color.neutral.0}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -278,21 +276,21 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.neutral.0}"
             },
             "hover": {
-              "value": "{color.primary.800}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.800}"
             },
             "pressed": {
-              "value": "{color.primary.800}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.800}"
             }
           },
           "unselected": {
             "enabled": {
-              "value": "{color.neutral.0}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -301,79 +299,78 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.neutral.0}"
             },
             "hover": {
-              "value": "{color.primary.100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.100}"
             },
             "pressed": {
-              "value": "{color.primary.100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.100}"
             }
           }
         },
         "disabled": {
-          "value": "{color.neutral.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.100}"
         }
       },
       "badge": {
         "sale": {
-          "value": "{color.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.0}"
         },
         "basic": {
-          "value": "{color.neutral.0}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.neutral.0}"
         },
         "tsv": {
-          "value": "{color.tsv.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.tsv.500}"
         },
         "live": {
-          "value": "{color.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.500}"
         }
       },
       "notice": {
         "success": {
-          "value": "{color.success.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.success.100}"
         },
         "error": {
-          "value": "{color.error.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.error.100}"
         },
         "warning": {
-          "value": "{color.warning.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.warning.100}"
         },
         "info": {
-          "value": "{color.info.100}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.info.100}"
         }
       },
       "navigation": {
         "primary": {
           "enabled": {
-            "value": "{color.neutral.0}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.0}"
           },
           "hover": {
-            "value": "{color.neutral.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.100}"
           },
           "pressed": {
-            "value": "{color.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.300}"
           }
         },
         "secondary": {
           "enabled": {
-            "value": "{color.neutral.0}",
-            "type": "color",
-            "description": "Alpha set to 0",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -382,15 +379,18 @@
                   "space": "srgb"
                 }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{color.neutral.0}",
+            "$description": "Alpha set to 0"
           },
           "hover": {
-            "value": "{color.neutral.100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.100}"
           },
           "pressed": {
-            "value": "{color.neutral.300}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.neutral.300}"
           }
         }
       }
@@ -399,59 +399,56 @@
       "action": {
         "primary": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "hover": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "pressed": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           }
         },
         "secondary": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "hover": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           },
           "pressed": {
-            "value": "{color.primary.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.primary.500}"
           }
         },
         "dragged": {
-          "value": "{color.primary.300}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.300}"
         },
         "disabled": {
-          "value": "{color.primary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.200}"
         },
         "danger": {
           "enabled": {
-            "value": "{color.red.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.500}"
           },
           "hover": {
-            "value": "{color.red.800}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.800}"
           },
           "pressed": {
-            "value": "{color.red.500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.red.500}"
           }
         },
         "ghost": {
           "enabled": {
-            "value": "{color.primary.500}",
-            "type": "color",
-            "description": "Stroke is present but opacity is 0 to hide\n",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -460,12 +457,12 @@
                   "space": "srgb"
                 }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{color.primary.500}",
+            "$description": "Stroke is present but opacity is 0 to hide\n"
           },
           "hover": {
-            "value": "{color.primary.500}",
-            "type": "color",
-            "description": "Stroke is present but opacity is 0 to hide\n",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -474,12 +471,12 @@
                   "space": "srgb"
                 }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{color.primary.500}",
+            "$description": "Stroke is present but opacity is 0 to hide\n"
           },
           "pressed": {
-            "value": "{color.primary.500}",
-            "type": "color",
-            "description": "Stroke is present but opacity is 0 to hide",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -488,64 +485,65 @@
                   "space": "srgb"
                 }
               }
-            }
+            },
+            "$type": "color",
+            "$value": "{color.primary.500}",
+            "$description": "Stroke is present but opacity is 0 to hide"
           }
         }
       },
       "field": {
         "disabled": {
-          "value": "{color.primary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.200}"
         },
         "enabled": {
-          "value": "{color.primary.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.500}"
         },
         "hover": {
-          "value": "{color.primary.800}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.800}"
         }
       },
       "control": {
         "disabled": {
-          "value": "{color.primary.200}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.primary.200}"
         },
         "primary": {
           "selected": {
             "enabled": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "hover": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "pressed": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             }
           },
           "unselected": {
             "enabled": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "hover": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "pressed": {
-              "value": "{color.primary.500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.primary.500}"
             }
           }
         },
         "ghost": {
           "selected": {
             "enabled": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -554,11 +552,11 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "hover": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -567,11 +565,11 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "pressed": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -580,13 +578,13 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             }
           },
           "unselected": {
             "enabled": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -595,11 +593,11 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "hover": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -608,11 +606,11 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             },
             "pressed": {
-              "value": "{color.primary.500}",
-              "type": "color",
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -621,80 +619,82 @@
                     "space": "srgb"
                   }
                 }
-              }
+              },
+              "$type": "color",
+              "$value": "{color.primary.500}"
             }
           }
         }
       },
       "badge": {
-        "value": "{color.primary.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.primary.300}"
       },
       "notice": {
         "success": {
-          "value": "{color.success.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.success.500}"
         },
         "error": {
-          "value": "{color.error.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.error.500}"
         },
         "warning": {
-          "value": "{color.warning.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.warning.500}"
         },
         "info": {
-          "value": "{color.info.500}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{color.info.500}"
         }
       }
     },
     "icon": {
       "primary": {
-        "value": "{color.primary.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.primary.500}"
       },
       "secondary": {
-        "value": "{color.secondary.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.secondary.500}"
       },
       "inverse": {
-        "value": "{color.neutral.0}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.neutral.0}"
       },
       "disabled": {
-        "value": "{color.primary.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.primary.200}"
       },
       "success": {
-        "value": "{color.success.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.success.500}"
       },
       "error": {
-        "value": "{color.error.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.error.500}"
       },
       "warning": {
-        "value": "{color.warning.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.warning.800}"
       },
       "info": {
-        "value": "{color.info.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{color.info.500}"
       }
     }
   },
   "button": {
     "min-height": {
       "md": {
-        "value": "{sizing.44}",
-        "type": "dimension",
-        "description": "Sets Height of buttons to 44 fixed"
+        "$type": "dimension",
+        "$value": "{sizing.44}",
+        "$description": "Sets Height of buttons to 44 fixed"
       },
       "sm": {
-        "value": "{sizing.36}",
-        "type": "dimension",
-        "description": "Sets Height of buttons to 36 fixed"
+        "$type": "dimension",
+        "$value": "{sizing.36}",
+        "$description": "Sets Height of buttons to 36 fixed"
       }
     }
   },
@@ -702,81 +702,81 @@
     "action": {
       "primary": {
         "enabled": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.primary.enabled}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         },
         "hover": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.primary.hover}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         },
         "pressed": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.primary.pressed}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         }
       },
       "dragged": {
-        "value": {
+        "$type": "border",
+        "$value": {
           "color": "{color.border.action.dragged}",
           "width": "{border-width.1}",
           "style": "solid"
-        },
-        "type": "border"
+        }
       },
       "secondary": {
         "enabled": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.secondary.enabled}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         },
         "hover": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.secondary.hover}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         },
         "pressed": {
-          "value": {
+          "$type": "border",
+          "$value": {
             "color": "{color.border.action.secondary.pressed}",
             "width": "{border-width.1}",
             "style": "solid"
-          },
-          "type": "border"
+          }
         }
       },
       "disabled": {
-        "value": {
+        "$type": "border",
+        "$value": {
           "color": "{color.border.action.disabled}",
           "width": "{border-width.1}",
           "style": "solid"
-        },
-        "type": "border"
+        }
       }
     },
     "primary": {
       "sm": {
-        "value": {
+        "$type": "border",
+        "$value": {
           "color": "{color.border.default}",
           "width": "{border-width.1}",
           "style": "solid"
-        },
-        "type": "border"
+        }
       }
     }
   }
